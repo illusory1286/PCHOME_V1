@@ -1,0 +1,42 @@
+/* Navbar styles */
+.navbar {
+    background-color: red   ;
+    overflow: hidden;
+    margin: auto;
+    padding: 10px;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    margin: 1px auto;
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Navbar Product styles */
+/* .navbar {
+    background-color: #e00505;
+    overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: rgb(148, 44, 44);
+} */
